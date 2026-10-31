@@ -4,6 +4,7 @@
 
 ## 下载与使用
 
+- **[快速使用说明：WorkBuddy、豆包、ChatGPT、Claude](快速使用说明.md)**
 - **[下载技能 ZIP（v1.0.0）](https://github.com/submindd/data-cleaning/releases/download/v1.0.0/data-cleaning-v1.0.0.zip)**
 - [下载普通对话版规则](https://github.com/submindd/data-cleaning/releases/download/v1.0.0/data-cleaning-rules.txt)
 - [详细使用说明](使用说明.txt)
